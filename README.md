@@ -12,16 +12,16 @@ Concepts used:
 •	Variables, lists, dictionaries, loops and conditionals.
 •	User input to store information
 •	Functions for adding medication, checking reminders and viewing.
-•	Modules: datetime for time management and matplotlib for data visualization
-•	Data visualization: use chart to assist users understand information
+•	Modules: datetime for time management and matplotlib for data visualization.
+•	Data visualization: use chart to assist users understand information.
 
 What I learnt:
 •	Improving the user with simple navigation experience
-•	Using Matplotlib to create pie chart (visuals)
-•	Data stored in dictionary format within list
+•	Using Matplotlib to create pie chart (visuals).
+•	Data stored in dictionary format within list.
 •	Making reminders go out on time.
 
 Faced challenges:
-•	Running reminders smoothly without slowing the menu and freezing
-•	Making a pie chart for the remaining days for medication
+•	Running reminders smoothly without slowing the menu and freezing.
+•	Making a pie chart for the remaining days for medication.
 
