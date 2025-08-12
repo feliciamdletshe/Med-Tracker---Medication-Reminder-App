@@ -23,5 +23,5 @@ What I learnt:
 
 Faced challenges:
 •	Running reminders smoothly without slowing the menu and freezing.
-•	Making a pie chart for the remaining days for medication.
+•	Making a pie chart for the remaining days for medication. 
 
